@@ -27,5 +27,10 @@ allprojects {
         maven {
             url 'https://maven.google.com'
         }
+        configurations.all {
+            resolutionStrategy {
+                force 'com.facebook.android:facebook-android-sdk:4.28.0'
+            }
+        }
     }
 }

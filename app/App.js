@@ -12,8 +12,9 @@ class App extends Component {
   }
 
   componentDidMount() {
-    firebase.auth().signInAnonymously()
-      .then(() => {
+    firebase.auth().signInAnonymouslyAndRetrieveData()
+      .then((user) => {
+        console.log(user);
         this.setState({
           isAuthenticated: true,
         });

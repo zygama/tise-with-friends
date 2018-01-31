@@ -1,2 +1,4 @@
-<resources>    <string name="app_name">Tise With Friends</string>
+<resources>
+    <string name="app_name">Tise With Friends</string>
+    <string name="facebook_app_id">163476134429915</string>
 </resources>
