@@ -1,4 +1,4 @@
-package com.tisewithfriends;
+package com.zygama.tisewithfriends;
 
 import com.facebook.react.ReactActivity;
 
