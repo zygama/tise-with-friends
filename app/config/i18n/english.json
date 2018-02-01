@@ -1,0 +1,54 @@
+{
+    "id": "English",
+    "login": {
+        "welcome": "Welcome on Party Now !",
+        "button_log_via_email": "Log In",
+        "text_wait_connection": "Please wait for a while... :)",
+        "email": " Email",
+        "password": " Password",
+        "error_message": "Oops... There was a problem X_X'",
+        "button_fb_login": "Log in with Facebook",
+        "button_fb_logout": "Log out"
+    },
+    "places_flux": {
+        "title": "Where going out?",
+    },
+    "profile_tab": {
+        "title": "Profile",
+        "go_to_profile_config": "See and edit profile",
+        "settings": "Settings",
+        "lorem_ipsum": "Lorem Ipsum",
+        "button_log_out": "Log out",
+        "profile_config": {
+            "member_since": "Member since {{date}}",
+            "filters": "Filters"
+        },
+        "edit_profile": {
+            "title": "Edit profile",
+            "edit_location": {
+                "title": "Edit localisation",
+                "button": "Edit localisation",
+                "city": "City",
+                "country": "Country"
+            },
+            "edit_name": {
+                "title": "Edit name",
+                "button": "Edit name",
+                "first_name": "First name",
+                "last_name": "Last name"
+            }
+        }
+    },
+    "favorites_places": {
+        "title": "Favorites places",
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language:"
+    },
+    "about":{
+        "title": "Additional screen",
+        "info": "Information:",
+        "explanation": "o"
+    }
+}

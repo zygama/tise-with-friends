@@ -1,0 +1,82 @@
+{
+    "id": "French",
+    "login": {
+        "welcome": "Bienvenue sur Party Now !",
+        "button_log_via_email": "Se connecter",
+        "text_wait_connection": "Veuillez patienter un instant... :)",
+        "email": "Emaille",
+        "password": "Mot de passe",
+        "error_message": "Oups... Il y a eu un problème X_X'",
+        "button_fb_login": "Se connecter avec Facebook",
+        "button_fb_logout": "Se déconnecter"
+    },
+    "establishments_flux": {
+        "title": "Où sortir?",
+        "bars": "Bars",
+        "night_clubs": "Clubs"
+    },
+    "profile_tab": {
+        "title": "Profil",
+        "go_to_profile_config": "Voir et modifier le profil",
+        "settings": "Parmètres",
+        "about": "A propos",
+        "lorem_ipsum": "Lorem Ipsum",
+        "button_log_out": "Déconnexion",
+        "profile_config": {
+            "member_since": "Membre depuis le {{date}}",
+            "filters": {
+                "title": "Filtres",
+                "music_genre_likes": {
+                  "title": "Genres musicaux",
+                  "dontHaveFavMusicGenres": "Vous n'avez pas encore de genres musicaux favoris."
+                },
+                "bars": {
+                  "title": "Bars",
+                  "inputMaxDistance": "Distance maximale de l'établissement par rapport à votre position GPS (en Km)",
+                  "inputMaxBeerPrice": "Prix maximum de la bière 25 cl (hors Happy Hour)"
+
+                },
+                "night_clubs": {
+                  "title": "Boîtes de nuit",
+                  "inputMaxDistance": "Distance maximale de l'établissement par rapport à votre position GPS (en Km)",
+                  "inputMaxEntrancePrice": "Prix maximum de l'entrée (bouteille non comprise)"
+                },
+                "ambiences": {
+                  "title": "Ambiances",
+                  "dontHaveFavAmbiences": "Vous n'avez pas encore de types d'établissements favoris."
+                },
+                "cities": {
+                    "title": "Villes",
+                    "favoritesCities": "Villes favorites",
+                    "dontHaveFavCities": "Vous n'avez pas encore de villes favorites.",
+                    "toastCitiesDidUpdate": "Les villes ont été mises à jour.",
+                    "toastCitiesDidntUpdate": "Les villes n'ont pas été mises à jour.",
+                    "searchBarText": "Rechercher une ville",
+                    "swipeoutDelete": "Supprimer"
+                },
+            },
+        },
+        "edit_profile": {
+            "title": "Modifier le profil",
+            "edit_location": {
+                "title": "Modifier la localisation",
+                "button": "Modifier la localisation",
+                "city": "Ville",
+                "country": "Pays"
+            },
+            "edit_name": {
+                "title": "Modifier le nom",
+                "button": "Modifier le nom",
+                "first_name": "Prénom",
+                "last_name": "Nom"
+            }
+        }
+    },
+    "favorites_places": {
+        "title": "Lieux favoris",
+    },
+    "settings": {
+        "title": "Paramètres",
+        "language": "Langues:"
+    }
+}
